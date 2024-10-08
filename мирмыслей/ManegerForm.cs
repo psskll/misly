@@ -99,7 +99,7 @@ namespace мирмыслей
             // Показываем форму
             form5.Show();
         }
-
+//действия для двух кнопок почти одинаковые, можно оптимизировать
         private void iconButton2_Click(object sender, EventArgs e)
         {
             IconButton activeButton = (IconButton)sender;
