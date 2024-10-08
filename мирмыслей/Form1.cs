@@ -28,6 +28,7 @@ namespace мирмыслей
             InitializeComponent();
         }
 
+//пустые методы
         private void tabPage2_Click(object sender, EventArgs e)
         {
 
