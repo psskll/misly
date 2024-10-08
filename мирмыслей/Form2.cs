@@ -35,6 +35,7 @@ namespace мирмыслей
             button.IconColor = forecolor;
         }
 
+//есть второй обработчик событий с таким же названием
         private void iconButton1_Click(object sender, EventArgs e)
         {
 

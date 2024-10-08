@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace мирмыслей
 {
+    //пяти из пяти
     internal static class Program
     {
         /// <summary>
