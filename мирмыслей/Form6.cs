@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
+//ошибок нет
 namespace мирмыслей
 {
     public partial class Form6 : Form
